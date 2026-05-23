@@ -12,3 +12,7 @@ flags:
   name: feature number two
   type: BOOLEAN_FLAG_TYPE
   enabled: true
+- key: feature-three
+  name: feature number three
+  type: BOOLEAN_FLAG_TYPE
+  enabled: false
