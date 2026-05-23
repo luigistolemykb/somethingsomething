@@ -7,8 +7,8 @@ flags:
 - key: feature-one
   name: feature number one
   type: BOOLEAN_FLAG_TYPE
-  enabled: false
+  enabled: true
 - key: feature-two
   name: feature number two
   type: BOOLEAN_FLAG_TYPE
-  enabled: true
+  enabled: false
