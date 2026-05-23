@@ -1,0 +1,14 @@
+version: "1.4"
+namespace:
+  key: default
+  name: Default
+  description: Default namespace
+flags:
+- key: feature-one
+  name: feature number one
+  type: BOOLEAN_FLAG_TYPE
+  enabled: false
+- key: feature-two
+  name: feature number two
+  type: BOOLEAN_FLAG_TYPE
+  enabled: true
